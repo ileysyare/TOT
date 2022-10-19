@@ -6,7 +6,7 @@ const App=()=>{
         <View>
 
             
-            <Text style={styles.txt1}>Hello APP</Text>
+            <Text style={styles.txt1}>This is best  APP</Text>
             <Text style={styles.txt1}>Hello APP</Text>
         </View>
     )
