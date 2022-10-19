@@ -5,7 +5,7 @@ const App=()=>{
     return(
         <View>
 
-            <Text style={styles.txt}>Hello APP</Text>
+            
             <Text style={styles.txt1}>Hello APP</Text>
             <Text style={styles.txt1}>Hello APP</Text>
         </View>
